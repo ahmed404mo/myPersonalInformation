@@ -179,3 +179,4 @@ Welcome to my GitHub Page. I am <b>Ahmed Mokhtar</b>, a passionate <b>Junior Ful
   <br>
   <em>Turning ideas into code, one commit at a time.</em>
 </div>
+<!-- .. -->
